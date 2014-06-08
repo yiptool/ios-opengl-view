@@ -266,7 +266,7 @@
 
 	if (UNLIKELY(firstFrame))
 	{
-			[self initGL];
+		[self initGL];
 		initializedGL = YES;
 	}
 
